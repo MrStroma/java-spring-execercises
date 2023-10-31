@@ -1,0 +1,8 @@
+2,ciao,ciao,2,ciao,2.0,ciao,
+12,2,fdfd,4,fdfd,3.0,fdfd,
+2,ciao,ciao,34545,ciao,5454.0,tgfgf,
+9,sambi,model,333,erere,3.0,fdfd,
+12,fdfd,fdfd,3,fdfd,3.0,fdfd,
+1,er,er,3444,ezio,1.0,fdfd,
+1,fiat,punto,2009,xfdfd,2009.0,benzina,
+1,fdfd,fdfd,434,fdfdfd,3.0,fdfd,
