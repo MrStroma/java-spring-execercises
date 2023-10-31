@@ -16,6 +16,8 @@ Nello specifico frequentando un'academy basata sul backend, siamo partiti dalle 
   
   Esercizi spiegati nello specifico, uno per uno che troverete nelle varie cartelle:
 
+  Requisiti: un IDE e Java installato
+
 - esVideoGiochi: JAVA VANILLA: questa app ti consentirà di gestire vari utenti e vari videogiochi, ovvero, avrai tutti i metodi crud da ambo i lati
   e potrai testare con mano anche le relazioni tra essi.
   Esercizio utile per imparare a gestire gli arraylist e come farli interagire con le varie classi.
