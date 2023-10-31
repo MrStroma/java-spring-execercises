@@ -41,6 +41,11 @@ Nello specifico frequentando un'academy basata sul backend, siamo partiti dalle 
   Il lavoro è suddiviso in vari pacchetti e classi --> Entities, DTO's, repositories, services e controllers.
   Ognuno delle quali testabile, sia autori che libro saranno differenziati e ognuno avrà il proprio controller, service ecc ecc
 
+  Nello specifico si parte dalle due classi DTO, Libro e Autore con i loro attributi e getter/setter
+  Successivamente sono passato alla creazione delle entity di entrambe, con i loro attributi e annotations specifiche -->@Column sopra i vari campi,
+  ed essendo una associazione @manytomany entrambi avranno un campo che punta ad una terza tabella che verrà creata da hibernate.
+  Avremo due 
+
 
 ENG:
 
