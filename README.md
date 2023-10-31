@@ -31,6 +31,7 @@ Nello specifico frequentando un'academy basata sul backend, siamo partiti dalle 
 
 - ristorante: JAVA VANILLA: app di gestione di un ristorante, possiamo gestire tavoli e prenotazioni, in questo esercizio si troverà una divisione migliore degli elementi
   in pacchetti e useremo le interfacce.
+  Abbiamo le prime due classi Tavolo e Prenotazione e come interfaccia il ReservationServiceImpl per gestire i metodi in relazione tra le classi
 
 - list: SPRING : questa è un app di "test", dove potremmo gestire da un controller i vari task, quindi abbiamo i CRUD's che potremmo testare
   direttamente con PostMan o chiamate API.
