@@ -38,5 +38,28 @@ Nello specifico frequentando un'academy basata sul backend, siamo partiti dalle 
   Ognuno delle quali testabile, sia autori che libro saranno differenziati e ognuno avrà il proprio controller, service ecc ecc
 
 
+ENG:
 
+In this repository, you will find various exercises related to JAVA and SPRING. Specifically, by attending a backend-focused academy, we started from the basics of the Java language (in various exercises, we will begin with the fundamental constructs) as follows:
+
+Variable and class management, including the concepts of abstraction, inheritance, polymorphism, and encapsulation.
+Built-in arrays and the difference with collections such as ArrayList, List, LinkedList, etc.
+DBMS and MySql, covering the lifecycle of creating a database with related queries for insertion, modification, deletion, and retrieval. Testing and explanation of various table JOINs (Left, Right, Outer, Inner).
+JDBC and interaction with the database, JAVA EE with related servlets.
+Spring Framework, explaining its layers (Spring Core, Spring MVC, Spring Data, etc.) and exercises (which you will find below) integrating Spring JPA and the ORM Hibernate.
+Exercises are explained in detail, one by one, which you will find in various folders:
+
+esVideoGames: JAVA VANILLA: This app allows you to manage various users and video games, providing all the CRUD methods from both sides, allowing you to test the relationships between them. This exercise is useful for learning how to handle ArrayLists and how to make them interact with various classes.
+
+esPatisserie: JAVA VANILLA: This app enables you to manage a pastry shop, including customers, workers associated with a manager, and products. It is considered an upgrade from the previous exercise, involving more classes and interactions between them.
+
+gestioneAuto: JAVA VANILLA: This is an app for managing cars. You can manage, interact with, and search for various cars, which you can insert, modify, delete, or search.
+
+ristorante: JAVA VANILLA: A restaurant management app that allows you to manage tables and reservations. In this exercise, there is a better division of elements into packages, and we use interfaces.
+
+list: SPRING: This is a "test" app where we can manage various tasks from a controller, so we have CRUD operations that can be tested directly with Postman or API calls.
+
+provaHibernate: SPRING + HIBERNATE: Here, we are testing using Hibernate and Spring.
+
+libreriaOnlineJPA: SPRING + JPA: This can be considered a final exercise where we can manage books and authors linked through a @manytomany association. The work is divided into various packages and classes, including Entities, DTOs, repositories, services, and controllers. Each of these is testable, and authors and books are differentiated, each having its controller, service, etc.
 
