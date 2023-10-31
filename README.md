@@ -9,9 +9,11 @@ Nello specifico frequentando un'academy basata sul backend, siamo partiti dalle 
 - Gestione variabili, classi, con relativi concetti di astrazione, ereditarietà, polimorfismo e incapsulamento.
 - Array built-in e differenza con le collection --> ArrayList, List, LinkedList ecc
 - DBMS e MySql --> life cicle di creazione di un database con le relative interrogazioni/query di inserimento, modifica, cancellazione e lettura.
-  Test e spiegazione delle varie JOIN di tabelle(Left, right, outer, inner)
-- JDBC e interazione col DB, JAVA EE con relative servlet
+  Test e spiegazione delle varie JOIN di tabelle(Left, right, outer, inner), esempi pratici e applicati
+- JDBC e interazione col DB, JAVA EE con relative servlet, esempi pratici e applicati anche qui
 - Framework Spring  --> spiegazione dei suoi layer(Spring Core, Spring MVC, Spring Data ecc) ed esercizi (che troverete sotto) integrando Spring JPA e l'ORM Hibernate
+- Spring JPA, tramite JPA abbiamo imparato e persistere i dati su un DB usando direttamente Spring
+- ORM HIBERNATE, tramite esso e vari esempi, abbiamo mappato oggetti java in tabelle/query e altro direttamente dall'orm.
 
   
   Esercizi spiegati nello specifico, uno per uno che troverete nelle varie cartelle:
