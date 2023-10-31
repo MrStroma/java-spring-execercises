@@ -44,6 +44,7 @@ Nello specifico frequentando un'academy basata sul backend, siamo partiti dalle 
   Nello specifico si parte dalle due classi DTO, Libro e Autore con i loro attributi e getter/setter
   Successivamente sono passato alla creazione delle entity di entrambe, con i loro attributi e annotations specifiche -->@Column sopra i vari campi,
   ed essendo una associazione @manytomany entrambi avranno un campo che punta ad una terza tabella che verrà creata da hibernate.
+  
   Avremo due repository per differenziare le classi, che estendono JPA repository e all'interno possiamo scrivere i metodi per le eventuali query.
   Anche qui, due services che richiamano tramite @autowired le repository, e qui facciamo la logica di business, prendiamo gli elementi dalle tabelle e li sistemiamo
   nei DTO e viceversa.
